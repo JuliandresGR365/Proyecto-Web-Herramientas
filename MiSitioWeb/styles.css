@@ -1,0 +1,20 @@
+/* Estilos personalizados */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  .banner {
+    background-size: cover;
+    height: 300px;
+    color: white;
+  }
+  
+  footer {
+    background-color: #222;
+    color: #fff;
+  }
+  
